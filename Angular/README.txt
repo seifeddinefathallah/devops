@@ -1,1 +1,2 @@
+-----seiif
 Avant de lancer l'application, exécutez la commande 'npm install pour télécharger les dépendances'
